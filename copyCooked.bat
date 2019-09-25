@@ -12,5 +12,5 @@ ECHO.
 robocopy "%cookedContent%" "%sessionContent%" /E /IS /XD Data\
 ECHO.
 ECHO ------------------------------------------------------------------------------
-ECHO Script by SuperDizor#0005 | https://github.com/SuperDizor/CopyCookedtoContent
+ECHO "Script by SuperDizor#0005 | https://github.com/SuperDizor/CopyCookedtoContent"
 PAUSE
