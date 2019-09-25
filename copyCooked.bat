@@ -6,8 +6,8 @@ SET "cookedContent=C:\Users\SuperDizor\Documents\Unreal Projects\Session_DizorPa
 SET "sessionContent=D:\Session_Stuffs\Session\SessionGame\Content"
 
 
-:: Do not modify below unless you know what you do.
-ECHO Start copying folders/files...
+:: Do not modify below unless you know what you doing.
+ECHO Starting copy folders/files...
 ECHO.
 robocopy "%cookedContent%" "%sessionContent%" /E /IS /XD Data\
 ECHO.
