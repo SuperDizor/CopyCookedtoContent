@@ -3,9 +3,9 @@ Tools for Session modding (Unreal Engine 4). Copying Cooked folder into the Cont
 
 
 ## Installation
- 1 - Copy the file everywhere in your computer.
- 2 - Open the file with a text editor
- 3 - Modify the path for each Content folders and save the file.
+ 1 - Copy the file everywhere in your computer.  
+ 2 - Open the file with a text editor  
+ 3 - Modify the path for each Content folders and save the file.  
 
 
 ## License
